@@ -7,6 +7,8 @@ We are not communicating directly with the steemit blockchain, but indirectly vi
 
 <img src="https://i.imgflip.com/14lnjn.jpg" alt="wallstreet" style="width:304px;height:228px;">
 
+* Set ```your_username``` and ```your_password``` in the python script before running.
+
 ## how to run: 
 1. ```git clone https://github.com/tai-euler/steem_upvoter.git```
 2. ```cd steem_upvoter/```
