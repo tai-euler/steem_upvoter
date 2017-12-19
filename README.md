@@ -1,8 +1,8 @@
 # steem_upvoter
 
 
-This is a powerful script to automate upvoting on steemit.com 
-We are not communicating directly with the steemit blockchain, but indirectly via the steemit frontend website and browser automation.
+This is a powerful script to automate upvotes on blockchain based social media platform steemit.com 
+NOTE: We are not communicating directly with the steemit blockchain, but indirectly via the steemit frontend website and we use browser automation(selenium in python).
 
 
 <img src="https://i.imgflip.com/14lnjn.jpg" alt="wallstreet" style="width:304px;height:228px;">
